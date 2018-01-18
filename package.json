@@ -1,0 +1,52 @@
+{
+  "name": "vue-typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keenwon/vue-typescript-example.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "vue",
+    "example",
+    "webpack"
+  ],
+  "author": {
+    "name": "keenwon",
+    "email": "semanwmj@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keenwon/vue-typescript-example/issues"
+  },
+  "homepage": "https://github.com/keenwon/vue-typescript-example#readme",
+  "devDependencies": {
+    "cross-env": "^5.1.3",
+    "css-loader": "^0.28.9",
+    "fork-ts-checker-webpack-plugin": "^0.3.0",
+    "friendly-errors-webpack-plugin": "^1.6.1",
+    "stylelint": "^8.4.0",
+    "stylelint-config-standard": "^18.0.0",
+    "stylelint-processor-html": "^1.0.0",
+    "stylelint-webpack-plugin": "^0.10.1",
+    "ts-loader": "^3.2.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2",
+    "vue": "^2.5.13",
+    "vue-class-component": "^6.1.2",
+    "vue-loader": "^13.7.0",
+    "vue-property-decorator": "^6.0.0",
+    "vue-router": "^3.0.1",
+    "vue-style-loader": "^3.0.3",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0",
+    "webpack-bundle-analyzer": "^2.9.2",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
