@@ -8,8 +8,5 @@
 
   @Component
   export default class PageB extends Vue {
-    public created() {
-      // ..
-    }
   }
 </script>

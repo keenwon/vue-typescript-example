@@ -18,9 +18,6 @@
 
   @Component
   export default class App extends Vue {
-    public created() {
-      // ..
-    }
   }
 </script>
 
